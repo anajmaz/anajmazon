@@ -1,4 +1,4 @@
-const defaultLocale = "en"
+const defaultLocale = "pt-br"
 
 
 function setLocaleHander() {
