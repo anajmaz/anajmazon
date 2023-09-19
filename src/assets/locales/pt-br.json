@@ -1,0 +1,91 @@
+{
+  "header": {
+    "home": "início",
+    "projects": "projetos",
+    "about": "sobre-mim",
+    "contacts": "contatos"
+  },
+  "footer": {
+    "description": "Designer web e desenvolvedora front-end que mora no Brasil",
+    "copyright": "Copyright 2023. Feito por Ana Julia Mazon",
+    "media": "Mídia"
+  },
+  "skills": {
+    "language": "Linguagens",
+    "database": "Bancos de Dados",
+    "other": "Outros",
+    "tool": "Ferramentas",
+    "framework": "Frameworks"
+  },
+  "projects": {
+    "deplos": {
+      "name": "Deplos",
+      "description": "Hospedagem de servidores de jogos"
+    }
+  },
+  "pages": {
+    "home": {
+      "hero": {
+        "title": "Ana Julia Mazon <span>designer web</span> e desenvolvedora <span>front-end</span>",
+        "description": "Crio sites responsivos onde tecnologias se encontram com a criatividade",
+        "button": "Contate-me",
+        "status": "Atualmente trabalhando em "
+      },
+      "quote": {
+        "text": "Com grandes poderes vêm grandes contas de eletricidade",
+        "author": "Dr. Who"
+      },
+      "projects": {
+        "title": "projetos",
+        "button": "Ver todos"
+      },
+      "skills": {
+        "title": "habilidades"
+      },
+      "about": {
+        "title": "sobre",
+        "description": [
+          "Sou uma desenvolvedora front-end, cursando desenvolvimento de sistemas, que mora em Curitiba, Brasil. Posso desenvolver sites responsivos do zero e transformá-los em experiências web modernas e amigáveis ao usuário.",
+          "Transformar minha criatividade e conhecimento em sites tem sido minha paixão por mais de dois anos. Ajudei vários clientes a estabelecer sua presença online. Sempre me esforço para aprender sobre as mais novas tecnologias e frameworks."
+        ],
+        "button": "Ver todos"
+      },
+      "contacts": {
+        "title": "contatos",
+        "text": "Estou interessado em oportunidades de freelancer. No entanto, se você tiver outra solicitação ou pergunta, não hesite em me contatar",
+        "media": "Mande uma mensagem aqui",
+        "donate": "Faça uma doação aqui"
+      }
+    },
+    "projects": {
+      "description": "Todos os meus projetos",
+      "decent": "decente",
+      "small": "pequeno",
+      "inProgress": "inacabado"
+    },
+    "about": {
+      "description": "Quem sou eu",
+      "about": {
+        "description": [
+          "Sou uma desenvolvedora front-end, cursando desenvolvimento de sistemas, que mora em Curitiba, Brasil. Posso desenvolver sites responsivos do zero e transformá-los em experiências web modernas e amigáveis ao usuário.",
+          "Transformar minha criatividade e conhecimento em sites tem sido minha paixão por mais de dois anos. Ajudei vários clientes a estabelecer sua presença online. Sempre me esforço para aprender sobre as mais novas tecnologias e frameworks.",
+          "Sempre me esforço para aprender sobre as mais novas tecnologias e frameworks."
+        ]
+      },
+      "skills": {
+        "title": "habilidades"
+      },
+      "facts": {
+        "title": "curiosidades",
+        "list": [
+          "Eu gosto mais do inverno do que do verão",
+          "Eu gosto de batata",
+          "Meu filme favorito é Tropa de Elite"
+        ]
+      }
+    },
+    "contacts": {
+      "description": "Como me contatar"
+    }
+  }
+}
