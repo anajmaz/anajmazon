@@ -18,9 +18,9 @@
         "framework": "Frameworks"
     },
     "projects": {
-        "deplos": {
-            "name": "Deplos",
-            "description": "Game servers hosting"
+        "loteria": {
+            "name": "Loteria",
+            "description": "Loteria Esportiva"
         }
     },
     "pages": {

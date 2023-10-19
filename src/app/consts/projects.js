@@ -3,12 +3,11 @@
  */
 const projects = [
     {
-        id: "deplos",
+        id: "loteria",
         links: {
-            figma: "1198393124994627983",
-            live: "anajmaz.github.io/deplos",
+            live: "loteria-esportiva-front-end.pages.dev/",
         },
-        techs: ["ReactJS", "styled", "node"],
+        techs: ["react", "styled", "node"],
         hasImage: false,
     },
 ];
