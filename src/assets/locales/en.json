@@ -75,9 +75,7 @@
         },
         "projects": {
             "description": "All of my projects",
-            "decent": "decent",
-            "small": "small",
-            "inProgress": "unfinished"
+            "decent": "decent"
         },
         "about": {
             "description": "Who am i",

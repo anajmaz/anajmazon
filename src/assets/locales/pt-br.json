@@ -75,9 +75,7 @@
     },
     "projects": {
       "description": "Todos os meus projetos",
-      "decent": "decente",
-      "small": "pequeno",
-      "inProgress": "inacabado"
+      "decent": "decente"
     },
     "about": {
       "description": "Quem sou eu",
