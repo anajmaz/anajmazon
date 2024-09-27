@@ -15,7 +15,7 @@ const projects = [
         links: {
             live: "igram-travel.vercel.app",
         },
-        techs: ["html", "css", "javascript"],
+        techs: ["html", "css", "js"],
         hasImage: false,
     },
     {
@@ -23,7 +23,7 @@ const projects = [
         links: {
             live: "eventos-rocketseat.vercel.app",
         },
-        techs: ["react", "graphcms", "graphql", "next", "typescript"],
+        techs: ["react", "graphcms", "graphql", "next", "ts"],
         hasImage: false,
     },
     {
@@ -31,7 +31,7 @@ const projects = [
         links: {
             live: "origamid-site-bikecraft.vercel.app/",
         },
-        techs: ["html", "css", "javascript"],
+        techs: ["html", "css", "js"],
         hasImage: false,
     },
     {
