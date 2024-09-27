@@ -1,14 +1,21 @@
-# My Portfolio #
-Written in vanilla js.
+# MEU PORTIFÓLIO
+Esse é o meu portfólio pessoal, onde apresento meus projetos de desenvolvimento.
 
-If you have any questions you can message me on discord: **anajmaz.dev.**  
-*PS. I'm sure there are a lot of typos and bugs, so pull requests and forks are welcome*  
+## TECNOLOGIAS USADAS
+- JavaScript
 
-**LIVE**: https://anajmazon.com.br
+## LINK PARA ACESSO
+Você pode ver o projeto [CLICANDO AQUI!](https://anajmazon.pages.dev).
 
-## TODO ##
-- [ ] Page contacts
-- [ ] Blog maybe
-- [ ] Animation
-- [ ] Improve images
-- [ ] Delete unused code
+## IMAGENS DO PROJETO
+### Página Inicial - Parte 1
+![HOME PAGE - PART 1](https://i.imgur.com/dHH4BvQ.png)
+
+### Página Inicial - Parte 2
+![HOME PAGE - PART 2](https://i.imgur.com/DsxwezO.png)
+
+### Projetos
+![BIKES](https://i.imgur.com/ZjFdUcE.png)
+
+### Sobre mim
+![INSURANCE](https://i.imgur.com/x66MnXE.png)
