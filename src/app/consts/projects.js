@@ -37,7 +37,7 @@ const projects = [
     {
         id: "api bun pizza shop",
         links: {
-            live: "https://github.com/anajmaz/api-bun-pizza-shop",
+            live: "github.com/anajmaz/api-bun-pizza-shop",
         },
         techs: ["bun"],
         hasImage: false,
