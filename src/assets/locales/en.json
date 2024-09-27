@@ -21,6 +21,22 @@
         "loteria": {
             "name": "Loteria",
             "description": "Loteria Esportiva"
+        },
+        "igram travel": {
+            "name": "Igram Travel",
+            "description": "Travel Agency"
+        },
+        "eventos rocketseat": {
+            "name": "Eventos Rocketseat",
+            "description": "Eventos Rocketseat"
+        },
+        "origamid bikecraft": {
+            "name": "Origamid Bikecraft",
+            "description": "Origamid Bikecraft"
+        },
+        "api bun pizza shop": {
+            "name": "API Bun Pizza Shop",
+            "description": "API Bun Pizza Shop"
         }
     },
     "pages": {

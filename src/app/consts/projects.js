@@ -10,6 +10,38 @@ const projects = [
         techs: ["react", "styled", "node"],
         hasImage: false,
     },
+    {
+        id: "igram travel",
+        links: {
+            live: "igram-travel.vercel.app",
+        },
+        techs: ["html", "css", "javascript"],
+        hasImage: false,
+    },
+    {
+        id: "eventos rocketseat",
+        links: {
+            live: "eventos-rocketseat.vercel.app",
+        },
+        techs: ["react", "graphcms", "graphql", "next", "typescript"],
+        hasImage: false,
+    },
+    {
+        id: "origamid bikecraft",
+        links: {
+            live: "origamid-site-bikecraft.vercel.app/",
+        },
+        techs: ["html", "css", "javascript"],
+        hasImage: false,
+    },
+    {
+        id: "api bun pizza shop",
+        links: {
+            live: "https://github.com/anajmaz/api-bun-pizza-shop",
+        },
+        techs: ["bun"],
+        hasImage: false,
+    },
 ];
 
 export default projects;
