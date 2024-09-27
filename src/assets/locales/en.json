@@ -6,7 +6,7 @@
         "contacts": "contacts"
     },
     "footer": {
-        "description": "Web designer and front-end developer based in Brazil",
+        "description": "Web designer and full-stack developer based in Brazil",
         "copyright": "Copyright 2023. Made by Ana Julia Mazon",
         "media": "Media"
     },
@@ -26,7 +26,7 @@
     "pages": {
         "home": {
             "hero": {
-                "title": "Ana Julia Mazon is a <span>web designer</span> and <span>front-end</span> developer",
+                "title": "Ana Julia Mazon is a <span>web designer</span> and <span>full-stack</span> developer",
                 "description": "I craft responsive websites where technologies meet creativity",
                 "button": "Contact ME",
                 "status": "Currently working on "
@@ -45,7 +45,7 @@
             "about": {
                 "title": "about",
                 "description": [
-                    "I’m a self-taught front-end developer live in Curitiba, Brazil. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. ",
+                    "I’m a self-taught full-stack developer live in Curitiba, Brazil. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. ",
                     "Transforming my creativity and knowledge into websites has been my passion for over two years. I have helped several clients establish their online presence. I always strive to learn about the newest technologies and frameworks."
                 ],
                 "button": "View all"
@@ -67,7 +67,7 @@
             "description": "Who am i",
             "about": {
                 "description": [
-                    "I’m a self-taught front-end developer live in Curitiba, Brazil. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. ",
+                    "I’m a self-taught full-stack developer live in Curitiba, Brazil. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. ",
                     "Transforming my creativity and knowledge into websites has been my passion for over two years. I have helped several clients establish their online presence. I always strive to learn about the newest technologies and frameworks.",
                     "I always strive to learn about the newest technologies and frameworks. "
                 ]

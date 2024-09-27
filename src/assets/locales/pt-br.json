@@ -6,7 +6,7 @@
     "contacts": "contatos"
   },
   "footer": {
-    "description": "Designer web e desenvolvedora front-end que mora no Brasil",
+    "description": "Designer web e desenvolvedora full-stack que mora no Brasil",
     "copyright": "Copyright 2023. Feito por Ana Julia Mazon",
     "media": "Mídia"
   },
@@ -26,7 +26,7 @@
   "pages": {
     "home": {
       "hero": {
-        "title": "Ana Julia Mazon <span>designer web</span> e desenvolvedora <span>front-end</span>",
+        "title": "Ana Julia Mazon <span>designer web</span> e desenvolvedora <span>full-stack</span>",
         "description": "Crio sites responsivos onde tecnologias se encontram com a criatividade",
         "button": "Contate-me",
         "status": "Atualmente trabalhando em "
@@ -45,7 +45,7 @@
       "about": {
         "title": "sobre",
         "description": [
-          "Sou uma desenvolvedora front-end, cursando desenvolvimento de sistemas, que mora em Curitiba, Brasil. Posso desenvolver sites responsivos do zero e transformá-los em experiências web modernas e amigáveis ao usuário.",
+          "Sou uma desenvolvedora full-stack, cursando desenvolvimento de sistemas, que mora em Curitiba, Brasil. Posso desenvolver sites responsivos do zero e transformá-los em experiências web modernas e amigáveis ao usuário.",
           "Transformar minha criatividade e conhecimento em sites tem sido minha paixão por mais de dois anos. Ajudei vários clientes a estabelecer sua presença online. Sempre me esforço para aprender sobre as mais novas tecnologias e frameworks."
         ],
         "button": "Ver todos"
@@ -67,7 +67,7 @@
       "description": "Quem sou eu",
       "about": {
         "description": [
-          "Sou uma desenvolvedora front-end, cursando desenvolvimento de sistemas, que mora em Curitiba, Brasil. Posso desenvolver sites responsivos do zero e transformá-los em experiências web modernas e amigáveis ao usuário.",
+          "Sou uma desenvolvedora full-stack, cursando desenvolvimento de sistemas, que mora em Curitiba, Brasil. Posso desenvolver sites responsivos do zero e transformá-los em experiências web modernas e amigáveis ao usuário.",
           "Transformar minha criatividade e conhecimento em sites tem sido minha paixão por mais de dois anos. Ajudei vários clientes a estabelecer sua presença online. Sempre me esforço para aprender sobre as mais novas tecnologias e frameworks.",
           "Sempre me esforço para aprender sobre as mais novas tecnologias e frameworks."
         ]
